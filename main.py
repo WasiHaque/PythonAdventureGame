@@ -1,6 +1,3 @@
-
-
-
 def travel_rooms(room_data_list):
     # Create a mapping of room names to integers
     room_to_int = {}
